@@ -16,6 +16,7 @@ This project predicts whether a telecom customer is likely to churn using superv
 
 ## 📂 Dataset
 **Dataset:** Telco Customer Churn Dataset
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download
 
 The dataset contains customer demographics, account information, services subscribed, billing details, and churn status.
 
